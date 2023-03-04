@@ -1,0 +1,3 @@
+while wait() do
+    game:GetService("Players").akratass.Cash.Value = 10000
+end
